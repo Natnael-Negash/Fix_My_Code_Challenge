@@ -1,10 +1,3 @@
-
-Gemini
-Gemini may display inaccurate information and does not represent Google's views. Double check responses. Learn more
-👋 Hi! Gemini in Drive is here to help you summarize documents and answer questions about your projects.
-
-
-
 #!/usr/bin/python3
 """ FizzBuzz
     Change of logic if (i % 3) == 0 and (i % 5) == 0:
